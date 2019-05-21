@@ -2174,6 +2174,14 @@ class Toplevel1:  # Only class in this program
                 return "5.1"
             if temp == "5.50":
                 return "5.1"
+            if temp == "5.75":
+                return "6.0"
+            if temp == "6.25":
+                return "6.1"
+            if temp == "6.50":
+                return "6.1"
+            if temp == "6.75":
+                return "7.0"
             if temp == "1.00":
                 return "1.0"
             if temp == "2.00":
